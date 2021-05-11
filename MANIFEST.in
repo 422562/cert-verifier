@@ -1,0 +1,3 @@
+include certverifier/count_vectorizers/*
+include certverifier/models/*
+include certverifier/data/*
