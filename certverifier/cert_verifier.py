@@ -11,7 +11,7 @@ def main():
 	argv = sys.argv[1:]
 	infile = ""
 	outfile = "output.csv"
-	mode = []
+	mode = "123"
 	strict = False
 	cert_count = 0
 	
